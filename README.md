@@ -1,2 +1,2 @@
-# approximate-time
-The script displays approximate time in text form.
+# random-pixel
+Create an image from random pixels.
